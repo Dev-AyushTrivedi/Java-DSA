@@ -1,0 +1,76 @@
+
+
+Types of operator's 
+
+            Arithmetic operator
+            it consist of two types :
+
+                        1. Binary operator : when there is total number of operands in a expression is two .
+
+                        2. Unary operator : when there is total number of operands in a expression is one.   
+
+                                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                |                                                                                  |
+                                |    1. binary operator :  + , - , * , / , %                                       |
+                                |                                                                                  |
+                                |    2. unary operator :   ++ (increment operator), -- (decrement operator)        |
+                                |                                                                                  |
+                                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+ Increment operator (++): it has two types
+
+                I. Preincrement operator (++a): in it the value changes first than use the value
+
+                II. Postincrement operator (a++): in it the value used first than use the value is changed. 
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+Relational operator: the operator which identify the relations between two operands 
+
+
+            1. ==  checks equal or not
+            2. !=  checks the operands are not equal
+            3. >  checks the first operand is greater than the second
+            4. <  checks the first operand is less than the second
+            5. >=  checks the first operand is greater than or equal to second
+            6. <=  checks the first operand is less than or equal to second
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+
+Logical operator: the logical operator 
+
+        && (Logical AND): - If statement one is true and statement two is true then answer is true, if one of this statement is false then answer is false and if both statement is false then answer is false.
+
+        || (Logical OR) : - If statement one is true and statement two is true then answer is true, if statement one is true and statement two is false then answer is true and if statement one is false and and statement two is true then answer is true and When both the statement is false then the answer is false. 
+
+        ! (Logical NOT) : - If statement is True then it will converted into False and if statement is False then it will be converted into True
+
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+Assignment Operators: -
+
+        = (equal to)
+
+        += (Addition to)
+
+        -= (Subtract from)
+
+        *= (Multiply to)
+
+        /= (Divide by)
+
+
+
+________________________________________________________________________________________________________________________________________________

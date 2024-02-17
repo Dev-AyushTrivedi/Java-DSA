@@ -1,0 +1,120 @@
+
+
+Variables: 
+        It is simply a container in which some value are stored and can be changed.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Literals: 
+        Literals are those entity in java that can not be changed.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Idebtifires: 
+        In Java the class name, variables name, function anme, are called identifiers. In other word's identifiers are the name by which the variables, functions, classes are identified.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+DataTypes:
+        1. Premitive: 
+                    Predefined DataTypes.
+        2. Non-Premitive: 
+                    Defined by User.
+
+1. Premitive:
+
+- byte,
+- short,
+- char,
+- boolean,
+- int,
+- long,
+- float,
+- double.
+
+
+2. Non-Premitive:
+
+- String,
+- Array,
+- class,
+- object,
+- interface.
+
+
+Size of data types:
+
+- byte: - 1 byte
+- short: - 2 bytes
+- char: - 2 bytes
+- boolean: - 1 byte
+- int; - 4 bytes
+- long: - 8 bytes
+- float: - 4 bytes
+- double: - 8 bytes
+
+________________________________________________________________________________________________________________________________________________
+
+
+[ $ Special Note: - Java is typed language in you have to define data with its type. ]
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Input in Java: -
+
+- next()
+- nextLine()
+- nextInt()
+- nextByte()
+- nextFloat()
+- nextBoolean()
+- nextShort()
+- nextLong()
+- nextDouble()
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Type Conversion: 
+                It is a process in which one data type is converted into another data type.
+
+
+                byte > short > int > float > long > double
+
+Conversion rule's to remember:
+                            1. type compatible
+                            2. destination type is greater than source type.
+
+
+Type conversion is also refered as implicit conversion and widening conversion because it store small data types into big data types.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Type Casting:
+            It is not allowed by Java but done by user.
+
+Narrowing conversion:
+                    In it the big data type is converted into small data type due to which some data may lose. It is also Known as Explicit Conversion.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+Type Promotion:
+                1. Java Automatically promotes each byte, short or char operands to int when evaluating an expression.
+                2. If one operand is long, float or double the whole expression is promoted to long float or double respectively.
+                 
+
+________________________________________________________________________________________________________________________________________________

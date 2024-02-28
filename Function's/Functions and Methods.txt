@@ -1,0 +1,45 @@
+## Functions:
+            It is a blog of code that can do a perticular task repeatedly, It is a reusable part of a program.
+
+            Sysntax:
+                    returnType name(){
+                        //body
+                        return statement
+                    }
+            
+            Syntax: with parameter:
+                                    returnType name(type parameter1, type parameter2){
+                                        //body
+                                        return statement
+                                    }
+    
+
+## Call by Value:
+                    - if you have pass a value in a function then anychange occur in value/variable then it will remain changed in the whole function but not in the main function. Because in java when you pass the value in function then the original value/variable is given to that function but a copy of that function is given to function.
+
+## call by Reference:
+                        - A function is a call by original value is called call by Reference it happens in C++.
+
+
+## Method's:
+            there are two types of Method in java:
+
+            1. User defined
+            2. inbuilt methods
+
+
+## Function Overloading:
+                        Multiple functions with the same name but different parameter.
+
+
+## Scope :
+            it is the limit of variable to be used in the program, i.e. If you declare a variable then scope is that where the variable is used in the entire code that is called scope of that variable.
+    
+## Method Scope: 
+                if you declare a variable in the function then you can use that varible in that entire function.
+
+## Block Scope: 
+                When ever the variable comes under any block or { } then 
+                their scope is present inside the block , it can be used inside that block only.
+
+                

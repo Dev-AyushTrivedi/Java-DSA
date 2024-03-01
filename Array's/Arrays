@@ -1,0 +1,26 @@
+
+
+## Arrays: -
+            it is a list of the same type of data placed in the contiguous memory location.
+            
+            #Special Note: Arrays are static type which means array size cannot be changed during runtime of code.
+
+
+            Operations in Array:
+                                - create
+                                - input
+                                - output
+                                - update
+
+
+            - Creating Array: 
+                                - Syntax : dataType arrayName[] = new dataType[size];
+
+                                #Example:
+                                        int marks[] = new int[50];
+
+                                        int numbers[] = {1,2,3};
+
+                                        int moreNumbers[] = {4,5,6};
+
+                                        String fruits[] = {"Apple", "Orange", "Mengo"};

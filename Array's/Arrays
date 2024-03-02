@@ -24,3 +24,7 @@
                                         int moreNumbers[] = {4,5,6};
 
                                         String fruits[] = {"Apple", "Orange", "Mengo"};
+
+
+            - Passing Array as a Argument to function: -
+                                                        array's are passed by reference 

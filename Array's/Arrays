@@ -28,3 +28,6 @@
 
             - Passing Array as a Argument to function: -
                                                         array's are passed by reference 
+
+        ## Linear Search: -
+                             A linear search is a list of a finite number nof homogenous data elememts (i.e elements of the same data type).   

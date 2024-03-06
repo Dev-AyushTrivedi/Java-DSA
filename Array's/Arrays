@@ -31,3 +31,9 @@
 
         ## Linear Search: -
                              A linear search is a list of a finite number nof homogenous data elememts (i.e elements of the same data type).   
+
+
+        ## SubArray: 
+                        A continous part of Array. 
+
+                        n = { (n(n+1))/2 }

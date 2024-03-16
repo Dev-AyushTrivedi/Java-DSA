@@ -1,11 +1,14 @@
 ## Sorting:
-            Arranging in an order.
+            - Arranging in an order.
     
-    ## Basic Sorting Techniques or Algorithms:
+        ## Basic Sorting Techniques or Algorithms:
                                                 1. Bubble Sorting
                                                 2. Selection Sorting
                                                 3. Insertion Sorting
                                                 4. Counting Sorting (Advanced)
                             
-    ## Bubble Sorting :
-                        Large elements come to th end of an array by swapping with adjacent elements.
+        ## Bubble Sorting :
+                        - Large elements come to th end of an array by swapping with adjacent elements.
+
+        ## Selection Sorting :
+                        - Pick the smallest from unsorted and put it at the beginning.

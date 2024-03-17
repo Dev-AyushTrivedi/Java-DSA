@@ -12,3 +12,9 @@
 
         ## Selection Sorting :
                         - Pick the smallest from unsorted and put it at the beginning.
+
+        ## Insertion Sorting :
+                        - Pick an element from unsortd part and place in the right positiion in sorted part.
+
+        ## Counting Sorting :
+                        - It will count the frequency of element occurance in array.

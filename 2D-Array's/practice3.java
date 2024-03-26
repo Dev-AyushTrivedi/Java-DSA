@@ -12,6 +12,7 @@ public class practice3 {
             }
         }
         printMatrix(transpose);
+        
     }
     public static void printMatrix(int[][] matrix){
         System.out.println("The matrix is: ");

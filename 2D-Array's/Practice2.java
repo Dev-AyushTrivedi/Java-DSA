@@ -7,5 +7,6 @@ public class Practice2 {
             sum += nums[1][i];
         }
         System.out.println("sum = " + sum);
+        
     }
 }

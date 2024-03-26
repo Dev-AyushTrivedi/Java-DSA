@@ -8,7 +8,8 @@ public class Practice1{
                 if(arr[0][j]==7){
                     countOf7++;
                 }
-            }
+                
+            } 
         }
         System.out.println("count of 7 " + countOf7);
     }

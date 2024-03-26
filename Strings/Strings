@@ -1,0 +1,2 @@
+Strings: -
+            In Java String are immutable which means once a String is defined in Java then it will not change later, and if you want to change it then it will create new string and store its new data. but it will not change.
